@@ -1,0 +1,15 @@
+.link-div {
+    display: flex;
+    align-items: center;
+    margin-top: 50px;
+}
+
+.link-a {
+    text-decoration: none;
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: var(--background-button-color);
+    margin-right: 5px;
+}

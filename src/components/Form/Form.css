@@ -1,0 +1,50 @@
+.form-form {
+    margin-top: 50px;
+    width: 720px;
+}
+
+.form-label {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: var(--form-color);
+}
+
+.form-div {
+    display: flex;
+    margin-top: 17px;
+    width: 840px;
+}
+
+.form-input {
+    background: #FFFFFF;
+    border: none;
+    border-left: solid 5px var(--title-color);
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    padding-top: 17px;
+    padding-bottom: 17px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 840px;
+    z-index: 1;
+}
+
+.form-input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+.form-button {
+    background-color: var(--background-button-color);
+    border: none;
+    cursor: pointer;
+}
+
+.form-img {
+    background-color: var(--background-button-color);
+    padding: 12px;
+}

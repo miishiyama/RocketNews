@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Work+Sans:wght@700&display=swap');
+
+.text-div {
+    margin-top: 92px;
+    width: 647px;
+}
+
+.text-h1 {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #08C05E;
+    margin-bottom: 8.56px;
+}
+
+.text-h2 {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 16px;
+    color: #FFFFFF;
+    margin-bottom: 9px;
+}
+
+.text-p {
+    font-family: "League Spartan", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+    margin-right: 37px;
+}
