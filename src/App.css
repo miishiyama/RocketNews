@@ -16,8 +16,7 @@
 .div {
     display: grid;
     grid-template-columns: 720px 1fr;
-    grid-template-areas: 
-        "a b";
+    grid-template-areas: "a b";
     padding-left: 36px;
 }
 
