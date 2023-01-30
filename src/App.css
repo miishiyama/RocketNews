@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color: var(--background-color);
+    background-color: var(--background-color)
 }
 
 :root {
@@ -10,25 +10,25 @@
     --text-color: #E1E1E6;
     --title-color: #04D361;
     --form-color: #A8A8A8;
-    --background-button-color: #8257e5;
+    --background-button-color: #8257e5
   }
 
 .div {
     display: grid;
     grid-template-columns: 720px 1fr;
     grid-template-areas: "a b";
-    padding-left: 36px;
+    padding-left: 36px
 }
 
 .img {
     display: grid;
     grid-area: b;
     width: 100%;
-    min-height: 747px;
+    min-height: 747px
 }
 
 .main {
     display: grid;
     grid-area: a;
-    height: 0;
+    height: 0
 }

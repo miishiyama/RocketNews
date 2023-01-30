@@ -1,6 +1,6 @@
 .form-form {
     margin-top: 50px;
-    width: 720px;
+    width: 720px
 }
 
 .form-label {
@@ -8,13 +8,13 @@
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
-    color: var(--form-color);
+    color: var(--form-color)
 }
 
 .form-div {
     display: flex;
     margin-top: 17px;
-    width: 840px;
+    width: 840px
 }
 
 .form-input {
@@ -30,21 +30,21 @@
     padding-left: 10px;
     padding-right: 10px;
     width: 840px;
-    z-index: 1;
+    z-index: 1
 }
 
 .form-input:focus {
     box-shadow: 0 0 0 0;
-    outline: 0;
+    outline: 0
 }
 
 .form-button {
     background-color: var(--background-button-color);
     border: none;
-    cursor: pointer;
+    cursor: pointer
 }
 
 .form-img {
     background-color: var(--background-button-color);
-    padding: 12px;
+    padding: 12px
 }

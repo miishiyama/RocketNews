@@ -1,7 +1,7 @@
 .link-div {
     display: flex;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 50px
 }
 
 .link-a {
@@ -11,5 +11,5 @@
     font-size: 14px;
     line-height: 19px;
     color: var(--background-button-color);
-    margin-right: 5px;
+    margin-right: 5px
 }

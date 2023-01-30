@@ -21,6 +21,7 @@ As tecnologias utilizadas neste projeto são:
 - Testing Library
 - React Scripts
 - Web Vitals
+- Google Fonts
 
 ## Créditos ❤️
 Feito por [Millene Eduarda Ishiyama](https://github.com/miishiyama/).

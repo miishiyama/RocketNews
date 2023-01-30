@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Work+Sans:wght@700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&family=Work+Sans:wght@700&display=swap");
 
 .text-div {
     margin-top: 92px;
-    width: 647px;
+    width: 647px
 }
 
 .text-h1 {
@@ -11,7 +11,7 @@
     font-size: 24px;
     line-height: 28px;
     color: #08C05E;
-    margin-bottom: 8.56px;
+    margin-bottom: 8.56px
 }
 
 .text-h2 {
@@ -20,7 +20,7 @@
     font-size: 14px;
     line-height: 16px;
     color: #FFFFFF;
-    margin-bottom: 9px;
+    margin-bottom: 9px
 }
 
 .text-p {
@@ -29,5 +29,5 @@
     font-size: 14px;
     line-height: 19px;
     color: #FFFFFF;
-    margin-right: 37px;
+    margin-right: 37px
 }
