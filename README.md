@@ -2,8 +2,11 @@
 ![preview](./preview/RocketNews.png)
 
 ## Projeto 💻
-Projeto de um desafio da Rocketseat de desenvolver uma página web simples que servirá no futuro para captação de leads ou inscrição em newsletter. <br>
-(https://www.figma.com/file/WfUg3p2NSvlfkLWKmPgZ6T/DD-%2F-RocketNews-(Copy)?t=1SunY75WuVfzpP5g-6)
+Projeto de um desafio da Rocketseat de desenvolver uma página web simples que servirá no futuro para captação de leads ou inscrição em newsletter.
+
+## Layout 🔖
+Segue abaixo o layout deste projeto:
+- [Figma](https://www.figma.com/file/WfUg3p2NSvlfkLWKmPgZ6T/DD-%2F-RocketNews-(Copy)?t=1SunY75WuVfzpP5g-6)
 
 ## Instalação 🛠
 Siga esses passos para instalar o repositório na sua máquina:
