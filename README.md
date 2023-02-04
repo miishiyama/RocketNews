@@ -13,6 +13,7 @@ Siga esses passos para instalar o repositório na sua máquina:
 1. Rode `git clone https://github.com/miishiyama/RocketNews` para fazer um clone desse repositório.
 2. Rode `npm i` para instalar as dependências do projeto.
 3. Rode `npm start` para iniciar o servidor de desenvolvimento.
+4. Enre no link que aparecer no terminal.
 
 ## Tecnologias 🚀
 As tecnologias utilizadas neste projeto são:
